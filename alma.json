@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "almacenamiento-414902",
+  "private_key_id": "6eca7b5d1226f1cea127fe808463d8156b4cb509",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC5qYCBzwxqO4zZ\nA7iMOWMNb4ERVfHgZwhWUHruble0DQvOPfFhP7vaIXHy3/pU4QTWpIRishqMlUUU\n4FnOVB4gmg34O3PCfAr9/2jOh2VGAaBaF0EM5Nn8z2tEf9pM+uh3mJVQLHkgiyPu\nbJitjfX+yr9l1bO6ImkD/vy8mJw56v+RhCZDZyZPqIIRHW5I3iN8EOslysp9L/Gj\nkUWSTfagUVux9MalLWdpFJpUNBnnGzoPXP9N1x0B+Z+A7r/RFTiEJm4NvbuW0F8h\nZ4Nj1Dul086QWg03ULCqSm6eXmFzNt4RxdTp83HaHl+5zFxLI8R/jeL3TNm+Z7Ac\nUWEjh1NlAgMBAAECggEAKQDSEHkTZxfJQrlTZeabpWE5mkRGo7ZljTh/ec51QJ67\n+3vLJhzfBizqP0cvgFTkzmmtkiV+/wrNY6+rrcl+kNktGiQ5K9vcyp1AfpJA783W\npebqVyhoqzB84ncxFVy5gAY6/aagxqrsD9E8g+HtEO0iiaFBbOuCEV+cXiN/JzwJ\nZed6g8d3AE1qv9hhuoa5SQP81/NB50jScWleY8Q+RUh0rXDq5xOEmuJIGgzEWi9S\n2XORJBbrlck24K8SmZA4mLDFkZ4kyE7u2982YMdlk+RXq5CCXWiCGCROQoChzJwx\nWKAkD7ds4XiPWDEkWZk8dlmhjUYJ49e7vTsWFowe4QKBgQD+1rgsh4t3iRsGqRlP\nBch8OjeezjRkolzl2oRIABXjmLWc8ZHPUVJ+I5zoKATlfPKsbtBgoW3lvIyAcgtK\neDf1HGvqBfwUSEwQVPMIyYRw1o8tVvpwAZiU+OSp3lac37WoikAtI+O/AbjV1HO4\nlUngpwxGfvzD3QjHZJbE9EA6xQKBgQC6ghXBMTDfXvAocb8EVt97Fou2HxoGLNhC\nffw2mwU+v2D0HrlV3+LSsgUxm3zgF4MLcu99VbPv0NKTmvRKpLburR9Hjil/LyUQ\nUVMITcrCswpt0WRI5p/RtrAR3F8enOxdAYhyVrmgaIItb6Ee8Q2VjUWs67YZDqt9\nHSaAMTzAIQKBgA9x7A+m12kTQjQRI5uKejAtRxm03bALtx2nNMU4XBtDMh6k9XVf\nNGS4u9XGNyXBgOO6g56XqhV2a/2M6+pDhwCwDEpOuoxwJUwIGgK6U/CS0HKrBtqq\n/hhpTVKOSymO1W+1kVYrCq6U6CLtkWXqhmO7PB85qxAj4VhUXF7rfskRAoGAKxVP\ntzAIzSCeM4mLCZKTz1g279whY9nKHxoBQA/xVzxYRiwuvfKY7/jlkD8NyqpDwEpN\nnlNE3JoNesFpuzBvfZUKS7pARbv7QNi4aIun0fAP8axUES8NLiGYbJfOdUDkrNtk\nzJzSBob9w0ctHfurGqfmt3o/t2wXGzC3qxc0pGECgYAW6iqBbBIJwVWgwM65YS7N\n53dJYhXYdUyLVPhTptpwLDELbvyfyFIK17mPywRnxuoUZYw/WUH/h8bPSOW3QDGj\nU+eHJL7+ap6UseqtqwxV6GC+g5hLvpzF1U90y91/l2FsSLrLeduUhu0gZbG0iQz7\nfdDip+t1cT0E6DdmdXL5NQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "almacenamiento@almacenamiento-414902.iam.gserviceaccount.com",
+  "client_id": "108895288680824459678",
+  "client_secret": "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",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/almacenamiento%40almacenamiento-414902.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

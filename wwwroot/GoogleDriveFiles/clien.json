@@ -1,0 +1,12 @@
+{
+  "web": {
+    "client_id": "19016711813-uc70pimqdho0d1oh75dos2fq9b9ejhch.apps.googleusercontent.com",
+    "project_id": "drive-archivos-414901",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "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",
+    "redirect_uris": [ "http://localhost:5000", "https://developers.google.com/oauthplayground" ],
+    "javascript_origins": [ "http://localhost:5000" ]
+  }
+}
